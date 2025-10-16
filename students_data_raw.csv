@@ -1,0 +1,94 @@
+anio,nivel,instituto,tipo_estudiante,genero,metrica,valor
+2021,General,UNAHUR,Todos,Todos,total_matricula,33352.0
+2021,Pregrado y Grado,UNAHUR,Todos,Todos,porcentaje_inscriptos_a_materias,65.0
+2021,Pregrado y Grado,UNAHUR,Todos,Todos,porcentaje_no_inscriptos_a_materias,35.0
+2021,Pregrado y Grado,UNAHUR,Todos,Todos,porcentaje_regularizo_o_aprobo,60.0
+2021,Pregrado y Grado,UNAHUR,Todos,Todos,porcentaje_no_regularizo_ni_aprobo,40.0
+2021,Pregrado y Grado,UNAHUR,Todos,Todos,cantidad_no_regularizo_ni_aprobo,13040.0
+2021,Pregrado y Grado,UNAHUR,No regularizó ni aprobó,Todos,porcentaje_se_inscribio_a_materia,65.0
+2021,Pregrado y Grado,UNAHUR,No regularizó ni aprobó,Todos,porcentaje_no_se_inscribio_a_materia,35.0
+2021,Pregrado,UNAHUR,Todos,Todos,total_estudiantes,9268.0
+2021,Pregrado,UNAHUR,Nuevos/as Inscriptos/as,Todos,total_estudiantes,5012.0
+2021,Pregrado,UNAHUR,Reinscriptos/as,Todos,total_estudiantes,4256.0
+2021,Pregrado,Biotecnología,Todos,Todos,total_estudiantes,3725.0
+2021,Pregrado,Biotecnología,Todos,Mujeres,total_estudiantes,2825.0
+2021,Pregrado,Biotecnología,Todos,Varones,total_estudiantes,900.0
+2021,Pregrado,Biotecnología,Todos,Todos,promedio_materias_aprobadas,3.1
+2021,Pregrado,Biotecnología,Todos,Todos,promedio_materias_regularizadas,3.3
+2021,Pregrado,Educación,Todos,Todos,total_estudiantes,88.0
+2021,Pregrado,Educación,Todos,Mujeres,total_estudiantes,51.0
+2021,Pregrado,Educación,Todos,Varones,total_estudiantes,37.0
+2021,Pregrado,Educación,Todos,Todos,promedio_materias_aprobadas,5.5
+2021,Pregrado,Educación,Todos,Todos,promedio_materias_regularizadas,5.8
+2021,Pregrado,Educación,Todos,Mujeres,porcentaje_aprobaron,59.0
+2021,Pregrado,Educación,Todos,Varones,porcentaje_aprobaron,51.0
+2021,Pregrado,Educación,Nuevos/as Inscriptos/as,Mujeres,porcentaje_aprobaron,40.0
+2021,Pregrado,Educación,Nuevos/as Inscriptos/as,Varones,porcentaje_aprobaron,44.0
+2021,Pregrado,Educación,Reinscriptos/as,Mujeres,porcentaje_aprobaron,67.0
+2021,Pregrado,Educación,Reinscriptos/as,Varones,porcentaje_aprobaron,54.0
+2021,Pregrado,Salud Comunitaria,Todos,Todos,total_estudiantes,2501.0
+2021,Pregrado,Salud Comunitaria,Todos,Todos,promedio_materias_aprobadas,4.9
+2021,Pregrado,Salud Comunitaria,Todos,Todos,promedio_materias_regularizadas,4.9
+2021,Pregrado,Salud Comunitaria,Todos,Mujeres,porcentaje_aprobaron,70.0
+2021,Pregrado,Salud Comunitaria,Todos,Varones,porcentaje_aprobaron,59.0
+2021,Pregrado,Salud Comunitaria,Nuevos/as Inscriptos/as,Mujeres,porcentaje_aprobaron,63.0
+2021,Pregrado,Salud Comunitaria,Nuevos/as Inscriptos/as,Varones,porcentaje_aprobaron,50.0
+2021,Pregrado,Salud Comunitaria,Reinscriptos/as,Mujeres,porcentaje_aprobaron,74.0
+2021,Pregrado,Salud Comunitaria,Reinscriptos/as,Varones,porcentaje_aprobaron,65.0
+2021,Pregrado,Tecnología e Ingeniería,Todos,Todos,total_estudiantes,2954.0
+2021,Pregrado,Tecnología e Ingeniería,Todos,Mujeres,total_estudiantes,732.0
+2021,Pregrado,Tecnología e Ingeniería,Todos,Varones,total_estudiantes,2222.0
+2021,Pregrado,Tecnología e Ingeniería,Todos,Todos,promedio_materias_aprobadas,3.1
+2021,Pregrado,Tecnología e Ingeniería,Todos,Todos,promedio_materias_regularizadas,3.0
+2021,Pregrado,Tecnología e Ingeniería,Todos,Mujeres,porcentaje_aprobaron,43.0
+2021,Pregrado,Tecnología e Ingeniería,Todos,Varones,porcentaje_aprobaron,38.0
+2021,Pregrado,Tecnología e Ingeniería,Nuevos/as Inscriptos/as,Mujeres,porcentaje_aprobaron,30.0
+2021,Pregrado,Tecnología e Ingeniería,Nuevos/as Inscriptos/as,Varones,porcentaje_aprobaron,28.0
+2021,Pregrado,Tecnología e Ingeniería,Reinscriptos/as,Mujeres,porcentaje_aprobaron,68.0
+2021,Pregrado,Tecnología e Ingeniería,Reinscriptos/as,Varones,porcentaje_aprobaron,52.0
+2021,Grado,UNAHUR,Todos,Todos,total_estudiantes,23533.0
+2021,Grado,Educación,Todos,Todos,total_estudiantes,9890.0
+2021,Grado,Salud Comunitaria,Todos,Todos,total_estudiantes,7983.0
+2021,Grado,Biotecnología,Todos,Todos,total_estudiantes,3041.0
+2021,Grado,Tecnología e Ingeniería,Todos,Todos,total_estudiantes,2760.0
+2021,Grado,UNAHUR,Todos,Mujeres,porcentaje_regularizaron,66.0
+2021,Grado,UNAHUR,Todos,Varones,porcentaje_regularizaron,54.0
+2021,Grado,UNAHUR,Todos,Mujeres,porcentaje_inscriptos_y_no_regularizaron,21.0
+2021,Grado,UNAHUR,Todos,Varones,porcentaje_inscriptos_y_no_regularizaron,31.0
+2021,Grado,UNAHUR,Todos,Mujeres,porcentaje_no_se_inscribieron_a_materias,12.0
+2021,Grado,UNAHUR,Todos,Varones,porcentaje_no_se_inscribieron_a_materias,15.0
+2021,Grado,Biotecnología,Todos,Mujeres,total_estudiantes,2314.0
+2021,Grado,Biotecnología,Todos,Varones,total_estudiantes,727.0
+2021,Grado,Biotecnología,Todos,Mujeres,porcentaje_aprobaron,58.3
+2021,Grado,Biotecnología,Todos,Varones,porcentaje_aprobaron,50.6
+2021,Grado,Biotecnología,Nuevos/as Inscriptos/as,Mujeres,porcentaje_aprobaron,47.0
+2021,Grado,Biotecnología,Nuevos/as Inscriptos/as,Varones,porcentaje_aprobaron,39.0
+2021,Grado,Biotecnología,Reinscriptos/as,Mujeres,porcentaje_aprobaron,68.0
+2021,Grado,Biotecnología,Reinscriptos/as,Varones,porcentaje_aprobaron,59.0
+2021,Grado,Educación,Todos,Mujeres,total_estudiantes,7295.0
+2021,Grado,Educación,Todos,Varones,total_estudiantes,2592.0
+2021,Grado,Educación,Todos,Todos,promedio_materias_aprobadas,4.1
+2021,Grado,Educación,Todos,Todos,promedio_materias_regularizadas,4.3
+2021,Grado,Educación,Todos,Mujeres,porcentaje_aprobaron,67.1
+2021,Grado,Educación,Todos,Varones,porcentaje_aprobaron,55.9
+2021,Grado,Tecnología e Ingeniería,Todos,Mujeres,total_estudiantes,694.0
+2021,Grado,Tecnología e Ingeniería,Todos,Varones,total_estudiantes,2066.0
+2021,Grado,Tecnología e Ingeniería,Todos,Todos,promedio_materias_aprobadas,3.2
+2021,Grado,Tecnología e Ingeniería,Todos,Todos,promedio_materias_regularizadas,3.1
+2021,Grado,Tecnología e Ingeniería,Todos,Mujeres,porcentaje_aprobaron,44.5
+2021,Grado,Tecnología e Ingeniería,Todos,Varones,porcentaje_aprobaron,39.1
+2021,Grado,Tecnología e Ingeniería,Reinscriptos/as,Mujeres,porcentaje_aprobaron,68.9
+2021,Grado,Tecnología e Ingeniería,Reinscriptos/as,Varones,porcentaje_aprobaron,53.7
+2021,Posgrado,UNAHUR,Todos,Mujeres,total_estudiantes,331.0
+2021,Posgrado,UNAHUR,Todos,Varones,total_estudiantes,79.0
+2021,Posgrado,UNAHUR,Todos,Todos,promedio_materias_aprobadas_y_regularizadas,3.0
+2021,Posgrado,UNAHUR,Todos,Mujeres,porcentaje_aprobaron,67.0
+2021,Posgrado,UNAHUR,Todos,Varones,porcentaje_aprobaron,61.0
+2021,Posgrado,UNAHUR,Nuevos/as Inscriptos/as,Mujeres,porcentaje_aprobaron,45.0
+2021,Posgrado,UNAHUR,Nuevos/as Inscriptos/as,Varones,porcentaje_aprobaron,31.0
+2021,Posgrado,UNAHUR,Reinscriptos/as,Mujeres,porcentaje_aprobaron,89.0
+2021,Posgrado,UNAHUR,Reinscriptos/as,Varones,porcentaje_aprobaron,78.0
+2021-2022,Pregrado,UNAHUR,Aprobaron en 2021,Todos,porcentaje_continuaron_en_2022,90.0
+2021-2022,Grado,UNAHUR,Aprobaron en 2021,Todos,porcentaje_continuaron_en_2022,83.3
+2021-2022,Grado,UNAHUR,Nuevos/as Inscriptos/as en 2021,Todos,porcentaje_continuaron_en_2022,51.0
+2021-2022,Grado,UNAHUR,Reinscriptos/as en 2021,Todos,porcentaje_continuaron_en_2022,73.0
